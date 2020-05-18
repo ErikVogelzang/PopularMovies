@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="main_activity_title">Movie List</string>
+    <string name="popular_movies_of">The most popular movies of</string>
+    <string name="popular_movies_default_year">2018</string>
+    <string name="submit_button_text">SUBMIT</string>
+    <string name="overview_text">Overview</string>
+    <string name="release_text">Release: %s</string>
+
+</resources>
